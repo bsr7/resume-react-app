@@ -6,9 +6,9 @@ import { Skills } from "./components/Skills.jsx";
 function App() {
 	return (
 		<>
-			{/* <Profile name="Byron Richards" email="bsr7cxp@virginia.edu" /> */}
-			{/* <EE title="Education" item1="UVA" item2="CS" item3="DSA" />
-			<EE title="Experience" item1="SWE" item2="worked on app" item3="won award" /> */}
+			<Profile name="Byron Richards" email="bsr7cxp@virginia.edu" />
+			<EE title="Education" item1="UVA" item2="CS" item3="DSA" />
+			<EE title="Experience" item1="SWE" item2="worked on app" item3="won award" />
 			<Skills />
 		</>
 	);
